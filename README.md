@@ -16,7 +16,7 @@
 
 - JavaScript
 
-<img height='25' src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Next%2ejs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Jss-F7DF1E?style=flat-square&logo=jss&logoColor=white"/>
@@ -51,11 +51,19 @@
 <img height='25' src="https://img.shields.io/badge/Neutralinojs-F89901?style=flat-square&logo=neutralinojs&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Underscore%2Ejs-0371B5?style=flat-square&logo=underscoredotjs&logoColor=white"/>
 
--
+- TypeScript
 
-## 시작 가이드
+<img height='25' src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+- other
+
+<img height='25' src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+
+## Run
 
 ---
+
+</br>
 
 ### Requirements
 
