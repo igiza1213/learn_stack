@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "path": "../Users/igiza/OneDrive/바탕 화면/msg backup/차곡차곡/develop/web"
+    },
+    {
+      "path": "../Users/igiza/OneDrive/바탕 화면/msg backup/차곡차곡/develop/SPAM-WEB"
+    },
+    {
+      "path": "SRH-Community-Web"
+    },
+    {
+      "path": "front_assignment"
+    },
+    {
+      "path": "doit_assignment"
+    },
+    {
+      "path": "doit-project"
+    },
+    {
+      "path": "SPAM-School-Page"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "front_assignment"
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": []
+  }
+}
