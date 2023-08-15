@@ -40,7 +40,7 @@
 <img height='25' src="https://img.shields.io/badge/reveal%2Ejs-F2E142?style=flat-square&logo=revealdotjs&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/rollup%2Ejs-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white"/>
 
-<img height='25' src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Angular-E23237?style=flat-square&logo=angularjs&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/RedwoodJS-BF4722?style=flat-square&logo=redwoodjs&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Backbone%2Ejs-0071B5?style=flat-square&logo=backbonedotjs&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/CodeceptJS-F6E05E?style=flat-square&logo=codeceptjs&logoColor=white"/>
