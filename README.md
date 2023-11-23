@@ -97,6 +97,25 @@ $ npm i
 
 ---
 
+```json
+{
+  "window.zoomLevel": 1,
+  "debug.onTaskErrors": "debugAnyway",
+  "tabnine.experimentalAutoImports": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.tabWidth": 2,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Atom One Dark",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "explorer.compactFolders": false,
+  "editor.tokenColorCustomizations": {
+    "comments": "#d39e9e"
+  },
+  "editor.tabSize": 2
+}
+```
+
 여러 스택들을 배워보고 그것에 대해 작성해보는걸 해보려고 합니다.
 
 오래동안 진행될거고 포기하는 스택도 있겠지만 꼭 여러가지 스택들을 배워보려 노력하겠습니다.
