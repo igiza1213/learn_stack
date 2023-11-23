@@ -112,7 +112,28 @@ $ npm i
   "editor.tokenColorCustomizations": {
     "comments": "#d39e9e"
   },
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "[go]": {
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "golang.go"
+  },
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.python"
+  },
 }
 ```
 
