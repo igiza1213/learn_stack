@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Contact from "./Contact";
 import styles from "./page.module.css";
 
 export default function Home() {
@@ -38,9 +39,7 @@ export default function Home() {
         ))}
       </section>
       <section className={styles.section} id="contact">
-        <h2>연락처</h2>
-        <p>이메일: example@email.com</p>
-        <p>전화번호: 123-456-7890</p>
+        <Contact email={"example@email.com"} tel={"010-1234-5678"} />
       </section>
       <footer className={styles.footer}>
         <p>© 2023 나의 포트폴리오</p>
